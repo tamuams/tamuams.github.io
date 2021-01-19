@@ -2397,11 +2397,11 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 100%;
+			width: 15 em;
 		}
 
 			.image.fit img {
-				width: 100%;
+				width: 15em;
 			}
 
 		.image.main {
